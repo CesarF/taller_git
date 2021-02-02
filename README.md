@@ -2,6 +2,8 @@
 
 Pasos esenciales para el manejo de git con CLI.
 
+Prueba de PR
+
 ## Antes de empezar
 
 1. Instale [git](https://git-scm.com/)
